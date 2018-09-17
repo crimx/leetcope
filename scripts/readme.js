@@ -2,7 +2,7 @@ const fs = require('fs-extra')
 const path = require('path')
 const grayMatter = require('gray-matter')
 
-const contentHead = `# Leetcope
+const contentHead = `# Leetcope [![Build Status](https://travis-ci.org/crimx/leetcope.svg?branch=master)](https://travis-ci.org/crimx/leetcope)
 
 Leetcode solutions in JavaScript. Most of them are within the top 90% of JavaScript runtime distribution (2018).
 
@@ -19,12 +19,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 main()
 
 async function main () {
-  const names = (await fs.readdir(path.join(__dirname, '../')))
+  const names = (await fs.readdir(path.join(__dirname, '../problems/')))
     .filter(name => /^\d\d\d\..*\.md$/.test(name))
 
   const matters = await Promise.all(
     names.map(async name =>
-      grayMatter(await fs.readFile(path.join(__dirname, '../', name))).data
+      grayMatter(await fs.readFile(path.join(__dirname, '../problems/', name))).data
     )
   )
 
@@ -39,13 +39,15 @@ async function main () {
     '<hr>',
   ].join('\n\n')
 
-  return fs.writeFile(path.join(__dirname, '../README.md'), content)
+  await fs.writeFile(path.join(__dirname, '../README.md'), content)
+
+  console.log(`Generated ${names.length} files.`)
 }
 
 function genDifficulty (names, matters) {
   const difficultyMap = matters.reduce((map, matter, i) => {
     const arr = map.get(matter.Difficulty) || []
-    arr.push(`- [${names[i]}](./${encodeURIComponent(names[i])})`)
+    arr.push(`- [${names[i]}](./problems/${encodeURIComponent(names[i])})`)
     return map.set(matter.Difficulty, arr)
   }, new Map())
 
@@ -64,7 +66,7 @@ function genTopicsAndQuestions (field, names, matters) {
     if (matter[field]) {
       Object.keys(matter[field]).forEach(topic => {
         const arr = map.get(topic) || []
-        arr.push(`- [${names[i]}](./${encodeURIComponent(names[i])})`)
+        arr.push(`- [${names[i]}](./problems/${encodeURIComponent(names[i])})`)
         map.set(topic, arr)
       })
     }
