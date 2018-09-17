@@ -11,8 +11,7 @@ commit_git() {
 }
 
 push_git() {
-  git remote add origin-pages https://${GH_TOKEN}@github.com/MVSE-outreach/resources.git > /dev/null 2>&1
-  git push --set-upstream origin HEAD
+  git push https://${GH_TOKEN}@github.com/crimx/leetcope.git HEAD:master
 }
 
 setup_git
