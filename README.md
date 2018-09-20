@@ -52,6 +52,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [119. Pascal's Triangle II.md](./problems/119.%20Pascal's%20Triangle%20II.md)
 - [121. Best Time to Buy and Sell Stock.md](./problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 - [122. Best Time to Buy and Sell Stock II.md](./problems/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
+- [125. Valid Palindrome.md](./problems/125.%20Valid%20Palindrome.md)
 </details>
 
 <details>
@@ -443,6 +444,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [093. Restore IP Addresses.md](./problems/093.%20Restore%20IP%20Addresses.md)
 - [097. Interleaving String.md](./problems/097.%20Interleaving%20String.md)
 - [115. Distinct Subsequences.md](./problems/115.%20Distinct%20Subsequences.md)
+- [125. Valid Palindrome.md](./problems/125.%20Valid%20Palindrome.md)
 </details>
 
 <details>
@@ -492,6 +494,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [080. Remove Duplicates from Sorted Array II.md](./problems/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md)
 - [086. Partition List.md](./problems/086.%20Partition%20List.md)
 - [088. Merge Sorted Array.md](./problems/088.%20Merge%20Sorted%20Array.md)
+- [125. Valid Palindrome.md](./problems/125.%20Valid%20Palindrome.md)
 </details>
 
 </details>
@@ -1180,6 +1183,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 <summary>Palindrome Linked List</summary>
 
 - [009. Palindrome Number.md](./problems/009.%20Palindrome%20Number.md)
+- [125. Valid Palindrome.md](./problems/125.%20Valid%20Palindrome.md)
 </details>
 
 <details>
@@ -1643,6 +1647,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 <summary>Valid Number</summary>
 
 - [008. String to Integer (atoi).md](./problems/008.%20String%20to%20Integer%20(atoi).md)
+</details>
+
+<details>
+<summary>Valid Palindrome II</summary>
+
+- [125. Valid Palindrome.md](./problems/125.%20Valid%20Palindrome.md)
 </details>
 
 <details>
