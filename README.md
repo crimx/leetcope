@@ -153,6 +153,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [099. Recover Binary Search Tree.md](./problems/099.%20Recover%20Binary%20Search%20Tree.md)
 - [115. Distinct Subsequences.md](./problems/115.%20Distinct%20Subsequences.md)
 - [123. Best Time to Buy and Sell Stock III.md](./problems/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.md)
+- [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 </details>
 
 </details>
@@ -287,6 +288,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [114. Flatten Binary Tree to Linked List.md](./problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
 - [116. Populating Next Right Pointers in Each Node.md](./problems/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 - [117. Populating Next Right Pointers in Each Node II.md](./problems/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
+- [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 </details>
 
 <details>
@@ -467,6 +469,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [114. Flatten Binary Tree to Linked List.md](./problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
 - [116. Populating Next Right Pointers in Each Node.md](./problems/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 - [117. Populating Next Right Pointers in Each Node II.md](./problems/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
+- [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 </details>
 
 <details>
@@ -981,6 +984,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 </details>
 
 <details>
+<summary>Longest Univalue Path</summary>
+
+- [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
+</details>
+
+<details>
 <summary>Longest Valid Parentheses</summary>
 
 - [020. Valid Parentheses.md](./problems/020.%20Valid%20Parentheses.md)
@@ -1220,6 +1229,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 <summary>Path Sum</summary>
 
 - [113. Path Sum II.md](./problems/113.%20Path%20Sum%20II.md)
+- [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 </details>
 
 <details>
@@ -1240,6 +1250,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 - [112. Path Sum.md](./problems/112.%20Path%20Sum.md)
 - [113. Path Sum II.md](./problems/113.%20Path%20Sum%20II.md)
+- [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 </details>
 
 <details>
@@ -1527,6 +1538,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 <summary>Sum Root to Leaf Numbers</summary>
 
 - [112. Path Sum.md](./problems/112.%20Path%20Sum.md)
+- [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 </details>
 
 <details>
