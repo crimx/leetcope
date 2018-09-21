@@ -157,6 +157,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [123. Best Time to Buy and Sell Stock III.md](./problems/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.md)
 - [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 - [126. Word Ladder II.md](./problems/126.%20Word%20Ladder%20II.md)
+- [128. Longest Consecutive Sequence.md](./problems/128.%20Longest%20Consecutive%20Sequence.md)
 </details>
 
 </details>
@@ -218,6 +219,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [122. Best Time to Buy and Sell Stock II.md](./problems/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
 - [123. Best Time to Buy and Sell Stock III.md](./problems/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.md)
 - [126. Word Ladder II.md](./problems/126.%20Word%20Ladder%20II.md)
+- [128. Longest Consecutive Sequence.md](./problems/128.%20Longest%20Consecutive%20Sequence.md)
 </details>
 
 <details>
@@ -504,6 +506,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [125. Valid Palindrome.md](./problems/125.%20Valid%20Palindrome.md)
 </details>
 
+<details>
+<summary>Union Find</summary>
+
+- [128. Longest Consecutive Sequence.md](./problems/128.%20Longest%20Consecutive%20Sequence.md)
+</details>
+
 </details>
 
 
@@ -666,6 +674,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 <summary>Binary Tree Level Order Traversal II</summary>
 
 - [102. Binary Tree Level Order Traversal.md](./problems/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
+</details>
+
+<details>
+<summary>Binary Tree Longest Consecutive Sequence</summary>
+
+- [128. Longest Consecutive Sequence.md](./problems/128.%20Longest%20Consecutive%20Sequence.md)
 </details>
 
 <details>
