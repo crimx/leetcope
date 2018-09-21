@@ -124,6 +124,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [116. Populating Next Right Pointers in Each Node.md](./problems/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 - [117. Populating Next Right Pointers in Each Node II.md](./problems/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
 - [120. Triangle.md](./problems/120.%20Triangle.md)
+- [127. Word Ladder.md](./problems/127.%20Word%20Ladder.md)
 </details>
 
 <details>
@@ -272,6 +273,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [107. Binary Tree Level Order Traversal II.md](./problems/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)
 - [111. Minimum Depth of Binary Tree.md](./problems/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
 - [126. Word Ladder II.md](./problems/126.%20Word%20Ladder%20II.md)
+- [127. Word Ladder.md](./problems/127.%20Word%20Ladder.md)
 </details>
 
 <details>
@@ -1109,6 +1111,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 </details>
 
 <details>
+<summary>Minimum Genetic Mutation</summary>
+
+- [127. Word Ladder.md](./problems/127.%20Word%20Ladder.md)
+</details>
+
+<details>
 <summary>Minimum Path Sum</summary>
 
 - [062. Unique Paths.md](./problems/062.%20Unique%20Paths.md)
@@ -1707,6 +1715,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 <summary>Word Ladder</summary>
 
 - [126. Word Ladder II.md](./problems/126.%20Word%20Ladder%20II.md)
+</details>
+
+<details>
+<summary>Word Ladder II</summary>
+
+- [127. Word Ladder.md](./problems/127.%20Word%20Ladder.md)
 </details>
 
 <details>
