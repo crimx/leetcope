@@ -126,6 +126,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [120. Triangle.md](./problems/120.%20Triangle.md)
 - [127. Word Ladder.md](./problems/127.%20Word%20Ladder.md)
 - [129. Sum Root to Leaf Numbers.md](./problems/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
+- [130. Surrounded Regions.md](./problems/130.%20Surrounded%20Regions.md)
 </details>
 
 <details>
@@ -277,6 +278,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [111. Minimum Depth of Binary Tree.md](./problems/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
 - [126. Word Ladder II.md](./problems/126.%20Word%20Ladder%20II.md)
 - [127. Word Ladder.md](./problems/127.%20Word%20Ladder.md)
+- [130. Surrounded Regions.md](./problems/130.%20Surrounded%20Regions.md)
 </details>
 
 <details>
@@ -300,6 +302,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [117. Populating Next Right Pointers in Each Node II.md](./problems/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
 - [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 - [129. Sum Root to Leaf Numbers.md](./problems/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
+- [130. Surrounded Regions.md](./problems/130.%20Surrounded%20Regions.md)
 </details>
 
 <details>
@@ -513,6 +516,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 <summary>Union Find</summary>
 
 - [128. Longest Consecutive Sequence.md](./problems/128.%20Longest%20Consecutive%20Sequence.md)
+- [130. Surrounded Regions.md](./problems/130.%20Surrounded%20Regions.md)
 </details>
 
 </details>
@@ -1205,6 +1209,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 </details>
 
 <details>
+<summary>Number of Islands</summary>
+
+- [130. Surrounded Regions.md](./problems/130.%20Surrounded%20Regions.md)
+</details>
+
+<details>
 <summary>One Edit Distance</summary>
 
 - [072. Edit Distance.md](./problems/072.%20Edit%20Distance.md)
@@ -1710,6 +1720,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 <summary>Validate Binary Search Tree</summary>
 
 - [094. Binary Tree Inorder Traversal.md](./problems/094.%20Binary%20Tree%20Inorder%20Traversal.md)
+</details>
+
+<details>
+<summary>Walls and Gates</summary>
+
+- [130. Surrounded Regions.md](./problems/130.%20Surrounded%20Regions.md)
 </details>
 
 <details>
