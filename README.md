@@ -125,6 +125,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [117. Populating Next Right Pointers in Each Node II.md](./problems/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
 - [120. Triangle.md](./problems/120.%20Triangle.md)
 - [127. Word Ladder.md](./problems/127.%20Word%20Ladder.md)
+- [129. Sum Root to Leaf Numbers.md](./problems/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
 </details>
 
 <details>
@@ -298,6 +299,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [116. Populating Next Right Pointers in Each Node.md](./problems/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 - [117. Populating Next Right Pointers in Each Node II.md](./problems/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
 - [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
+- [129. Sum Root to Leaf Numbers.md](./problems/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
 </details>
 
 <details>
@@ -481,6 +483,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [116. Populating Next Right Pointers in Each Node.md](./problems/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 - [117. Populating Next Right Pointers in Each Node II.md](./problems/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
 - [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
+- [129. Sum Root to Leaf Numbers.md](./problems/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
 </details>
 
 <details>
@@ -686,6 +689,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 <summary>Binary Tree Maximum Path Sum</summary>
 
 - [112. Path Sum.md](./problems/112.%20Path%20Sum.md)
+- [129. Sum Root to Leaf Numbers.md](./problems/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
 </details>
 
 <details>
@@ -1261,6 +1265,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 - [113. Path Sum II.md](./problems/113.%20Path%20Sum%20II.md)
 - [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
+- [129. Sum Root to Leaf Numbers.md](./problems/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
 </details>
 
 <details>
