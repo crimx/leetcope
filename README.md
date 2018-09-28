@@ -127,6 +127,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [127. Word Ladder.md](./problems/127.%20Word%20Ladder.md)
 - [129. Sum Root to Leaf Numbers.md](./problems/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
 - [130. Surrounded Regions.md](./problems/130.%20Surrounded%20Regions.md)
+- [131. Palindrome Partitioning.md](./problems/131.%20Palindrome%20Partitioning.md)
 </details>
 
 <details>
@@ -246,6 +247,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [090. Subsets II.md](./problems/090.%20Subsets%20II.md)
 - [093. Restore IP Addresses.md](./problems/093.%20Restore%20IP%20Addresses.md)
 - [126. Word Ladder II.md](./problems/126.%20Word%20Ladder%20II.md)
+- [131. Palindrome Partitioning.md](./problems/131.%20Palindrome%20Partitioning.md)
 </details>
 
 <details>
@@ -1231,6 +1233,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 <summary>Palindrome Pairs</summary>
 
 - [005. Longest Palindromic Substring.md](./problems/005.%20Longest%20Palindromic%20Substring.md)
+</details>
+
+<details>
+<summary>Palindrome Partitioning II</summary>
+
+- [131. Palindrome Partitioning.md](./problems/131.%20Palindrome%20Partitioning.md)
 </details>
 
 <details>
