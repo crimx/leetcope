@@ -161,6 +161,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [124. Binary Tree Maximum Path Sum.md](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 - [126. Word Ladder II.md](./problems/126.%20Word%20Ladder%20II.md)
 - [128. Longest Consecutive Sequence.md](./problems/128.%20Longest%20Consecutive%20Sequence.md)
+- [132. Palindrome Partitioning II.md](./problems/132.%20Palindrome%20Partitioning%20II.md)
 </details>
 
 </details>
@@ -338,6 +339,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - [120. Triangle.md](./problems/120.%20Triangle.md)
 - [121. Best Time to Buy and Sell Stock.md](./problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 - [123. Best Time to Buy and Sell Stock III.md](./problems/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.md)
+- [132. Palindrome Partitioning II.md](./problems/132.%20Palindrome%20Partitioning%20II.md)
 </details>
 
 <details>
@@ -1233,6 +1235,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 <summary>Palindrome Pairs</summary>
 
 - [005. Longest Palindromic Substring.md](./problems/005.%20Longest%20Palindromic%20Substring.md)
+</details>
+
+<details>
+<summary>Palindrome Partitioning</summary>
+
+- [132. Palindrome Partitioning II.md](./problems/132.%20Palindrome%20Partitioning%20II.md)
 </details>
 
 <details>
